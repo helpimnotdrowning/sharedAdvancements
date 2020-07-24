@@ -1,0 +1,2 @@
+#tellraw @a ["",{"text":"This World Is Running Shared Advancements! ","color":"gray"},{"text":"Created by Har Detta","color":"blue","underlined":true,"clickEvent":{"action":"open_url","value":"https://www.twitch.tv/phihat"}}]
+tellraw @a [{"text":"[Shared Achievements] "},{"text":"Shared Achievements v1.16.1 has loaded!","color":"green"}]
