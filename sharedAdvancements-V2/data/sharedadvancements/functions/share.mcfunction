@@ -78,3 +78,14 @@ execute as @a[advancements={minecraft:story/root=true}] run advancement grant @a
 execute as @a[advancements={minecraft:story/shiny_gear=true}] run advancement grant @a[advancements={minecraft:story/shiny_gear=false}] only minecraft:story/shiny_gear
 execute as @a[advancements={minecraft:story/smelt_iron=true}] run advancement grant @a[advancements={minecraft:story/smelt_iron=false}] only minecraft:story/smelt_iron
 execute as @a[advancements={minecraft:story/upgrade_tools=true}] run advancement grant @a[advancements={minecraft:story/upgrade_tools=false}] only minecraft:story/upgrade_tools
+execute as @a[advancements={minecraft:husbandry/ride_a_boat_with_a_goat	=true}] run advancement grant @a[advancements={minecraft:husbandry/ride_a_boat_with_a_goat=false}] only minecraft:husbandry/ride_a_boat_with_a_goat
+execute as @a[advancements={minecraft:husbandry/wax_on=true}] run advancement grant @a[advancements={minecraft:husbandry/wax_on=false}] only minecraft:husbandry/wax_on
+execute as @a[advancements={minecraft:husbandry/wax_off=true}] run advancement grant @a[advancements={minecraft:husbandry/wax_off=false}] only minecraft:husbandry/wax_off
+execute as @a[advancements={minecraft:husbandry/axolotl_in_a_bucket=true}] run advancement grant @a[advancements={minecraft:husbandry/axolotl_in_a_bucket=false}] only minecraft:husbandry/axolotl_in_a_bucket
+execute as @a[advancements={minecraft:husbandry/kill_axolotl_target	=true}] run advancement grant @a[advancements={minecraft:husbandry/kill_axolotl_target=false}] only minecraft:husbandry/kill_axolotl_target
+execute as @a[advancements={minecraft:husbandry/make_a_sign_glow	=true}] run advancement grant @a[advancements={minecraft:husbandry/make_a_sign_glow=false}] only minecraft:husbandry/make_a_sign_glow
+execute as @a[advancements={minecraft:adventure/walk_on_powder_snow_with_leather_boots=true}] run advancement grant @a[advancements={minecraft:adventure/walk_on_powder_snow_with_leather_boots=false}] only minecraft:adventure/walk_on_powder_snow_with_leather_boots
+execute as @a[advancements={minecraft:adventure/lightning_rod_with_villager_no_fire=true}] run advancement grant @a[advancements={minecraft:adventure/lightning_rod_with_villager_no_fire=false}] only minecraft:adventure/lightning_rod_with_villager_no_fire	
+execute as @a[advancements={minecraft:adventure/spyglass_at_parrot	=true}] run advancement grant @a[advancements={minecraft:adventure/spyglass_at_parrot=false}] only minecraft:adventure/spyglass_at_parrot
+execute as @a[advancements={minecraft:adventure/spyglass_at_ghast	=true}] run advancement grant @a[advancements={minecraft:adventure/spyglass_at_ghast=false}] only minecraft:adventure/spyglass_at_ghast
+execute as @a[advancements={minecraft:adventure/spyglass_at_dragon=true}] run advancement grant @a[advancements={minecraft:adventure/spyglass_at_dragon=false}] only minecraft:adventure/spyglass_at_dragon
